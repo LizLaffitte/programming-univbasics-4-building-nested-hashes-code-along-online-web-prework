@@ -16,7 +16,6 @@ def fourth_challenge
           :age => "18",
           :attitude => "hot-headed"
         }
-        }
       ]
    }, 
    :capulet => {
@@ -30,7 +29,11 @@ def fourth_challenge
           :age => "30",
           :attitude => "confused"
         },
-        
+        {
+          :name => "Nurse",
+          :age => "44",
+          :attitude => "worried"
+        }
       ]
    }
 }
